@@ -1,7 +1,7 @@
 # UAS Pemrograman Mobile
-## Nama  : Ery Shandy
-## NIM   : 312010201
-## Kelas : TI.20.A.2
+## Nama  : Rahmat Hidayat
+## NIM   : 312010987
+## Kelas : TI.18.AB
 
 ## Tampilan Menu Halaman Utama/Home
 <img width="377" alt="ss 1 uas" src="https://github.com/eryshandy22/flutter_uas/assets/73053784/efee6d87-0262-4e9a-a960-b3021caecfde">
